@@ -31,7 +31,7 @@ and 2026?
 ## 2.2 Outputs
 ## 2.3 Tasks
 # 3.0 Business Assumptions
-1. Amostras com a feature com avaliable igual a False estão faturando
+1. Samples with feature evaluable equal to False are generating revenue
 # 4.0 Tools and Requirements
 # 5.0 Top 3 Data Insights
 # 6.0 Machine Learning Applied
