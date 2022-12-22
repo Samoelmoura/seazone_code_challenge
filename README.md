@@ -32,6 +32,7 @@ and 2026?
 ## 2.3 Tasks
 # 3.0 Business Assumptions
 1. Samples with feature evailable equal to False are generating revenue
+2. aquisition_date annually renewed
 # 4.0 Tools and Requirements
 # 5.0 Top 3 Data Insights
 # 6.0 Machine Learning Applied
