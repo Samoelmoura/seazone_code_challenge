@@ -28,12 +28,46 @@ and 2026?
 
 # 2.0 Solution Strategy
 ## 2.1 Inputs
+* Business Questions
+1. What is the best property profile to invest in the city?
+2. Which is the best location in the city in terms of revenue?
+3. What are the characteristics and reasons for the best revenues in the city?
+4. We would like to build a building of 50 apartments in the city, where should we build it
+and how should the apartments be designed in order to be a great investment?
+5. How much will be the return on investment of this building in the years 2024, 2025
+and 2026?
+* datasets
+1. Price_AV_Itapema.csv (43020080 rows and  14 colunas)
+2. VivaReal_Itapema.csv (17547 rows and 42 columns)
+3. Hosts_ids_Itapema.csv.csv (32558 rows and 37 columns)
+5. Mesh_Ids_Data_Itapema.csv (2373 rows and 7 columns)
 ## 2.2 Outputs
+1. A business profile of the best properties cluster, based on their revenue
+2. The best localization based on their revenue
+3. Designed characteristics of the best properties according to their revenue
+4. Designed characteristics and localization according to their ROI
+5. The prediction values of the referred years
 ## 2.3 Tasks
+1. Identify better business metrics for clustering and train a model
+2. Use the clustered model and point out the best neighborhoods
+3. Use the clustered model and point out the best design features and localization
+4. Use the clustered model and point out the best design features location and demand for hosting
+5. Create a regression model to forecast demand
+## 2.4 Cicles
+1. Create a functional, end-to-end data pipeline (from data collection to model training)
+2. Understand the data and clean it (search for inconsistencies) Statistical analyzes first order descriptive
+3. Feature Engineering (create variables that model the phenomenon)
+4. Exploratory data analysis
+5. Define metrics and train the model
+6. Analyze metrics
+7. Business result analysis and conclusions
 # 3.0 Business Assumptions
 1. Samples with feature **evailable equal to False** will be considered how to be generating revenue
 2. **Future dates** and their features will be considered as facts
 # 4.0 Tools and Requirements
+- Language: Python
+- Development: Jupyter Notebook
+- Delivery: Public Repository on Github
 # 5.0 Top 3 Data Insights
 # 6.0 Machine Learning Applied
 # 7.0 Machine Learning Performance
