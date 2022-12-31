@@ -69,8 +69,34 @@ and 2026?
 - Development: Jupyter Notebook
 - Delivery: Public Repository on Github
 # 5.0 Top 3 Data Insights
+
 # 6.0 Machine Learning Applied
+XGBoost Regressor
 # 7.0 Machine Learning Performance
 # 8.0 Business Results
+
+## Business Question 1: What is the best property profile to invest in the city?
+### The best property profile to invest in the city:
+* Localized at Morretes (average revenue 38% higher than Meia Praia and reasonable demand)
+* 3 badrooms
+* 2 bathrooms
+
+## Business Question 2: Which is the best location in the city in terms of revenue?
+*  Ilhota (considering the average just revenue, without considering the demand)
+
+## Business Question 3: What are the characteristics and reasons for the best revenues in the city?
+
+* Distance from the beach
+* Neighborhood
+* Bedrooms quantities
+* Elevator
+
+## Business Question 4: We would like to build a building of 50 apartments in the city, where should we build it and how should the apartments be designed in order to be a great investment?
+
+* Localized at Meia Praia (best demand)
+* 3 badrooms
+* 2 bathrooms
+
+## Business Question 5: How much will be the return on investment of this building in the years 2024, 2025 and 2026?
 # 9.0 Next Steps
 # 10.0 Project Status
