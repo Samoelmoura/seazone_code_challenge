@@ -71,8 +71,12 @@ and 2026?
 # 5.0 Top 3 Data Insights
 
 # 6.0 Machine Learning Applied
-XGBoost Regressor
+## 6.1 Machine Learning Regressor
+Random Forest Regressor
+## 6.2 Machine Learning Clustering
+KMeans
 # 7.0 Machine Learning Performance
+![](img/ml_performance.JPG)
 # 8.0 Business Results
 
 ## Business Question 1: What is the best property profile to invest in the city?
