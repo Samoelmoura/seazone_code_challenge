@@ -12,6 +12,9 @@ __pycache__/
 # PDF
 # *.pdf
 
+# doc
+*.doc
+
 # Distribution / packaging
 .Python
 build/
