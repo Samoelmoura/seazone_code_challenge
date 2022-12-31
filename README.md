@@ -99,4 +99,6 @@ XGBoost Regressor
 
 ## Business Question 5: How much will be the return on investment of this building in the years 2024, 2025 and 2026?
 # 9.0 Next Steps
+Inverse transformations and error interpretation
 # 10.0 Project Status
+![](img/project_status.jpg)
