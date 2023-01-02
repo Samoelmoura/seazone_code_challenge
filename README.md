@@ -96,7 +96,7 @@ Properties located in Estaleirinho are rented on average every 2 days, and gener
 The most popular location is Meia Praia, the time factor matters, the months between October and January are the most profitable, apartments are 20% more profitable than houses, 2 or 3 bedrooms, 2 bathrooms.
 
 ## Business Question 4: We would like to build a building of 50 apartments in the city, where should we build it and how should the apartments be designed in order to be a great investment?
-Properties with this configuration will be generate: R$120613.52 over the years 2024 and 2025
+Properties with this configuration will be generate: 6 millions over the years 2024 and 2025
 ## Business Question 5: How much will be the return on investment of this building in the years 2024, 2025 and 2026?
 # 9.0 Next Steps
 •	Better understand the confiability of working with future events, as data from 2023 are contained in the dataset
