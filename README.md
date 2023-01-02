@@ -69,7 +69,6 @@ and 2026?
 - Development: Jupyter Notebook
 - Delivery: Public Repository on Github
 # 5.0 Top 3 Data Insights
-
 # 6.0 Machine Learning Applied
 ## 6.1 Machine Learning Regressor
 Random Forest Regressor
@@ -80,29 +79,19 @@ KMeans
 # 8.0 Business Results
 
 ## Business Question 1: What is the best property profile to invest in the city?
-### The best property profile to invest in the city:
-* Localized at Morretes (average revenue 38% higher than Meia Praia and reasonable demand)
-* 3 badrooms
-* 2 bathrooms
+Localized at Varzea with 2 bedrooms. Properties with 3 bedrooms are 5% more profitable compared to 2 bedroom properties. On the other hand, they are more than 2 times more expensive. Properties located in Várzea are on average 30% more profitable compared to Meia Praia, and on average the market value for purchase is 3 times lower. Apartments are 20% more profitable than houses and 10% more expensive to buy.
 
 ## Business Question 2: Which is the best location in the city in terms of revenue?
-*  Ilhota (considering the average just revenue, without considering the demand)
+Properties located in Estaleirinho are rented on average every 2 days, and generate R$ 6500,00 monthly revenue on average 
 
 ## Business Question 3: What are the characteristics and reasons for the best revenues in the city?
-
-* Distance from the beach
-* Neighborhood
-* Bedrooms quantities
-* Elevator
+The most popular location is Meia Praia, the time factor matters, the months between October and January are the most profitable, apartments are 20% more profitable than houses, 2 or 3 bedrooms, 2 bathrooms.
 
 ## Business Question 4: We would like to build a building of 50 apartments in the city, where should we build it and how should the apartments be designed in order to be a great investment?
-
-* Localized at Meia Praia (best demand)
-* 3 badrooms
-* 2 bathrooms
-
+Properties with this configuration will be generate: R$120613.52 over the years 2024 and 2025
 ## Business Question 5: How much will be the return on investment of this building in the years 2024, 2025 and 2026?
 # 9.0 Next Steps
-Inverse transformations and error interpretation
+•	Better understand the confiability of working with future events, as data from 2023 are contained in the dataset
+•	Effect size studies and A/B testing on defined clusters, oriented towards financial metrics such as gross revenue
+•	Deploy the model in a production environment via API with requests via Google Sheets
 # 10.0 Project Status
-![](img/project_status.jpg)
